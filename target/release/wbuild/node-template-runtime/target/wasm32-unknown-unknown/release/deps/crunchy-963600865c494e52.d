@@ -1,0 +1,10 @@
+/Users/edward.wangcrypto.com/study/substrate_lesson_homework_template/node-template-benchmark/target/release/wbuild/node-template-runtime/target/wasm32-unknown-unknown/release/deps/crunchy-963600865c494e52.rmeta: /Users/edward.wangcrypto.com/.cargo/registry/src/github.com-1ecc6299db9ec823/crunchy-0.2.2/src/lib.rs /Users/edward.wangcrypto.com/study/substrate_lesson_homework_template/node-template-benchmark/target/release/wbuild/node-template-runtime/target/wasm32-unknown-unknown/release/build/crunchy-534b58f5a29f0a9c/out/lib.rs
+
+/Users/edward.wangcrypto.com/study/substrate_lesson_homework_template/node-template-benchmark/target/release/wbuild/node-template-runtime/target/wasm32-unknown-unknown/release/deps/libcrunchy-963600865c494e52.rlib: /Users/edward.wangcrypto.com/.cargo/registry/src/github.com-1ecc6299db9ec823/crunchy-0.2.2/src/lib.rs /Users/edward.wangcrypto.com/study/substrate_lesson_homework_template/node-template-benchmark/target/release/wbuild/node-template-runtime/target/wasm32-unknown-unknown/release/build/crunchy-534b58f5a29f0a9c/out/lib.rs
+
+/Users/edward.wangcrypto.com/study/substrate_lesson_homework_template/node-template-benchmark/target/release/wbuild/node-template-runtime/target/wasm32-unknown-unknown/release/deps/crunchy-963600865c494e52.d: /Users/edward.wangcrypto.com/.cargo/registry/src/github.com-1ecc6299db9ec823/crunchy-0.2.2/src/lib.rs /Users/edward.wangcrypto.com/study/substrate_lesson_homework_template/node-template-benchmark/target/release/wbuild/node-template-runtime/target/wasm32-unknown-unknown/release/build/crunchy-534b58f5a29f0a9c/out/lib.rs
+
+/Users/edward.wangcrypto.com/.cargo/registry/src/github.com-1ecc6299db9ec823/crunchy-0.2.2/src/lib.rs:
+/Users/edward.wangcrypto.com/study/substrate_lesson_homework_template/node-template-benchmark/target/release/wbuild/node-template-runtime/target/wasm32-unknown-unknown/release/build/crunchy-534b58f5a29f0a9c/out/lib.rs:
+
+# env-dep:OUT_DIR=/Users/edward.wangcrypto.com/study/substrate_lesson_homework_template/node-template-benchmark/target/release/wbuild/node-template-runtime/target/wasm32-unknown-unknown/release/build/crunchy-534b58f5a29f0a9c/out

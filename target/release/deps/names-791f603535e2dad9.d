@@ -1,0 +1,11 @@
+/Users/edward.wangcrypto.com/study/substrate_lesson_homework_template/node-template-benchmark/target/release/deps/names-791f603535e2dad9.rmeta: /Users/edward.wangcrypto.com/.cargo/registry/src/github.com-1ecc6299db9ec823/names-0.11.0/src/lib.rs /Users/edward.wangcrypto.com/study/substrate_lesson_homework_template/node-template-benchmark/target/release/build/names-b20804f35db17450/out/adjectives.rs /Users/edward.wangcrypto.com/study/substrate_lesson_homework_template/node-template-benchmark/target/release/build/names-b20804f35db17450/out/nouns.rs
+
+/Users/edward.wangcrypto.com/study/substrate_lesson_homework_template/node-template-benchmark/target/release/deps/libnames-791f603535e2dad9.rlib: /Users/edward.wangcrypto.com/.cargo/registry/src/github.com-1ecc6299db9ec823/names-0.11.0/src/lib.rs /Users/edward.wangcrypto.com/study/substrate_lesson_homework_template/node-template-benchmark/target/release/build/names-b20804f35db17450/out/adjectives.rs /Users/edward.wangcrypto.com/study/substrate_lesson_homework_template/node-template-benchmark/target/release/build/names-b20804f35db17450/out/nouns.rs
+
+/Users/edward.wangcrypto.com/study/substrate_lesson_homework_template/node-template-benchmark/target/release/deps/names-791f603535e2dad9.d: /Users/edward.wangcrypto.com/.cargo/registry/src/github.com-1ecc6299db9ec823/names-0.11.0/src/lib.rs /Users/edward.wangcrypto.com/study/substrate_lesson_homework_template/node-template-benchmark/target/release/build/names-b20804f35db17450/out/adjectives.rs /Users/edward.wangcrypto.com/study/substrate_lesson_homework_template/node-template-benchmark/target/release/build/names-b20804f35db17450/out/nouns.rs
+
+/Users/edward.wangcrypto.com/.cargo/registry/src/github.com-1ecc6299db9ec823/names-0.11.0/src/lib.rs:
+/Users/edward.wangcrypto.com/study/substrate_lesson_homework_template/node-template-benchmark/target/release/build/names-b20804f35db17450/out/adjectives.rs:
+/Users/edward.wangcrypto.com/study/substrate_lesson_homework_template/node-template-benchmark/target/release/build/names-b20804f35db17450/out/nouns.rs:
+
+# env-dep:OUT_DIR=/Users/edward.wangcrypto.com/study/substrate_lesson_homework_template/node-template-benchmark/target/release/build/names-b20804f35db17450/out

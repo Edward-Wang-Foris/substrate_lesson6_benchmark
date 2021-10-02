@@ -1,0 +1,10 @@
+/Users/edward.wangcrypto.com/study/substrate_lesson_homework_template/node-template-benchmark/target/release/deps/idna-312c4bbd9a379f5b.rmeta: /Users/edward.wangcrypto.com/.cargo/registry/src/github.com-1ecc6299db9ec823/idna-0.1.5/src/lib.rs /Users/edward.wangcrypto.com/.cargo/registry/src/github.com-1ecc6299db9ec823/idna-0.1.5/src/punycode.rs /Users/edward.wangcrypto.com/.cargo/registry/src/github.com-1ecc6299db9ec823/idna-0.1.5/src/uts46.rs /Users/edward.wangcrypto.com/.cargo/registry/src/github.com-1ecc6299db9ec823/idna-0.1.5/src/uts46_mapping_table.rs
+
+/Users/edward.wangcrypto.com/study/substrate_lesson_homework_template/node-template-benchmark/target/release/deps/libidna-312c4bbd9a379f5b.rlib: /Users/edward.wangcrypto.com/.cargo/registry/src/github.com-1ecc6299db9ec823/idna-0.1.5/src/lib.rs /Users/edward.wangcrypto.com/.cargo/registry/src/github.com-1ecc6299db9ec823/idna-0.1.5/src/punycode.rs /Users/edward.wangcrypto.com/.cargo/registry/src/github.com-1ecc6299db9ec823/idna-0.1.5/src/uts46.rs /Users/edward.wangcrypto.com/.cargo/registry/src/github.com-1ecc6299db9ec823/idna-0.1.5/src/uts46_mapping_table.rs
+
+/Users/edward.wangcrypto.com/study/substrate_lesson_homework_template/node-template-benchmark/target/release/deps/idna-312c4bbd9a379f5b.d: /Users/edward.wangcrypto.com/.cargo/registry/src/github.com-1ecc6299db9ec823/idna-0.1.5/src/lib.rs /Users/edward.wangcrypto.com/.cargo/registry/src/github.com-1ecc6299db9ec823/idna-0.1.5/src/punycode.rs /Users/edward.wangcrypto.com/.cargo/registry/src/github.com-1ecc6299db9ec823/idna-0.1.5/src/uts46.rs /Users/edward.wangcrypto.com/.cargo/registry/src/github.com-1ecc6299db9ec823/idna-0.1.5/src/uts46_mapping_table.rs
+
+/Users/edward.wangcrypto.com/.cargo/registry/src/github.com-1ecc6299db9ec823/idna-0.1.5/src/lib.rs:
+/Users/edward.wangcrypto.com/.cargo/registry/src/github.com-1ecc6299db9ec823/idna-0.1.5/src/punycode.rs:
+/Users/edward.wangcrypto.com/.cargo/registry/src/github.com-1ecc6299db9ec823/idna-0.1.5/src/uts46.rs:
+/Users/edward.wangcrypto.com/.cargo/registry/src/github.com-1ecc6299db9ec823/idna-0.1.5/src/uts46_mapping_table.rs:

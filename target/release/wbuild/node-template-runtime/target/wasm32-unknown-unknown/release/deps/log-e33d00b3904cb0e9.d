@@ -1,0 +1,9 @@
+/Users/edward.wangcrypto.com/study/substrate_lesson_homework_template/node-template-benchmark/target/release/wbuild/node-template-runtime/target/wasm32-unknown-unknown/release/deps/log-e33d00b3904cb0e9.rmeta: /Users/edward.wangcrypto.com/.cargo/registry/src/github.com-1ecc6299db9ec823/log-0.4.14/src/lib.rs /Users/edward.wangcrypto.com/.cargo/registry/src/github.com-1ecc6299db9ec823/log-0.4.14/src/macros.rs /Users/edward.wangcrypto.com/.cargo/registry/src/github.com-1ecc6299db9ec823/log-0.4.14/src/serde.rs
+
+/Users/edward.wangcrypto.com/study/substrate_lesson_homework_template/node-template-benchmark/target/release/wbuild/node-template-runtime/target/wasm32-unknown-unknown/release/deps/liblog-e33d00b3904cb0e9.rlib: /Users/edward.wangcrypto.com/.cargo/registry/src/github.com-1ecc6299db9ec823/log-0.4.14/src/lib.rs /Users/edward.wangcrypto.com/.cargo/registry/src/github.com-1ecc6299db9ec823/log-0.4.14/src/macros.rs /Users/edward.wangcrypto.com/.cargo/registry/src/github.com-1ecc6299db9ec823/log-0.4.14/src/serde.rs
+
+/Users/edward.wangcrypto.com/study/substrate_lesson_homework_template/node-template-benchmark/target/release/wbuild/node-template-runtime/target/wasm32-unknown-unknown/release/deps/log-e33d00b3904cb0e9.d: /Users/edward.wangcrypto.com/.cargo/registry/src/github.com-1ecc6299db9ec823/log-0.4.14/src/lib.rs /Users/edward.wangcrypto.com/.cargo/registry/src/github.com-1ecc6299db9ec823/log-0.4.14/src/macros.rs /Users/edward.wangcrypto.com/.cargo/registry/src/github.com-1ecc6299db9ec823/log-0.4.14/src/serde.rs
+
+/Users/edward.wangcrypto.com/.cargo/registry/src/github.com-1ecc6299db9ec823/log-0.4.14/src/lib.rs:
+/Users/edward.wangcrypto.com/.cargo/registry/src/github.com-1ecc6299db9ec823/log-0.4.14/src/macros.rs:
+/Users/edward.wangcrypto.com/.cargo/registry/src/github.com-1ecc6299db9ec823/log-0.4.14/src/serde.rs:

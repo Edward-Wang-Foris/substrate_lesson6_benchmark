@@ -1,0 +1,10 @@
+{
+  "jsonrpc":"2.0",
+  "id":1,
+  "method":"author_insertKey",
+  "params": [
+    "aura",
+    "coconut toilet monkey tenant tray arctic resemble blast law stick twenty black",
+    "0x1a54e06d0f3b2c3b8b025c5a07a0991128b07b0de4a8336acfb27effe7174b65"
+  ]
+}

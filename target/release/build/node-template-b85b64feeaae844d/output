@@ -1,0 +1,4 @@
+cargo:rustc-env=SUBSTRATE_CLI_IMPL_VERSION=3.0.0-monthly-2021-09+1-729be0a-x86_64-macos
+cargo:rerun-if-changed=/Users/edward.wangcrypto.com/study/substrate_lesson_homework_template/node-template-benchmark/.git/HEAD
+cargo:rerun-if-changed=/Users/edward.wangcrypto.com/study/substrate_lesson_homework_template/node-template-benchmark/.git/refs/heads/master
+

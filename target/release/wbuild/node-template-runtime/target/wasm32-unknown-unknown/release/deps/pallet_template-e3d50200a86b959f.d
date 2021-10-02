@@ -1,0 +1,8 @@
+/Users/edward.wangcrypto.com/study/substrate_lesson_homework_template/node-template-benchmark/target/release/wbuild/node-template-runtime/target/wasm32-unknown-unknown/release/deps/pallet_template-e3d50200a86b959f.rmeta: /Users/edward.wangcrypto.com/study/substrate_lesson_homework_template/node-template-benchmark/pallets/template/src/lib.rs /Users/edward.wangcrypto.com/study/substrate_lesson_homework_template/node-template-benchmark/pallets/template/src/weights.rs
+
+/Users/edward.wangcrypto.com/study/substrate_lesson_homework_template/node-template-benchmark/target/release/wbuild/node-template-runtime/target/wasm32-unknown-unknown/release/deps/libpallet_template-e3d50200a86b959f.rlib: /Users/edward.wangcrypto.com/study/substrate_lesson_homework_template/node-template-benchmark/pallets/template/src/lib.rs /Users/edward.wangcrypto.com/study/substrate_lesson_homework_template/node-template-benchmark/pallets/template/src/weights.rs
+
+/Users/edward.wangcrypto.com/study/substrate_lesson_homework_template/node-template-benchmark/target/release/wbuild/node-template-runtime/target/wasm32-unknown-unknown/release/deps/pallet_template-e3d50200a86b959f.d: /Users/edward.wangcrypto.com/study/substrate_lesson_homework_template/node-template-benchmark/pallets/template/src/lib.rs /Users/edward.wangcrypto.com/study/substrate_lesson_homework_template/node-template-benchmark/pallets/template/src/weights.rs
+
+/Users/edward.wangcrypto.com/study/substrate_lesson_homework_template/node-template-benchmark/pallets/template/src/lib.rs:
+/Users/edward.wangcrypto.com/study/substrate_lesson_homework_template/node-template-benchmark/pallets/template/src/weights.rs:

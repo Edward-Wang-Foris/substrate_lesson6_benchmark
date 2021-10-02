@@ -1,0 +1,10 @@
+{
+  "jsonrpc":"2.0",
+  "id":1,
+  "method":"author_insertKey",
+  "params": [
+    "gran",
+    "neck quit crowd mountain finish order hidden theory disease face theory nose",
+    "0x730adfd1bf7ded9ea8a04391fa359aab774f849b06746e00a26174c416aa1c89"
+  ]
+}

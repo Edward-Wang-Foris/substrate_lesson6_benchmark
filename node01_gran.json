@@ -1,0 +1,10 @@
+{
+  "jsonrpc":"2.0",
+  "id":1,
+  "method":"author_insertKey",
+  "params": [
+    "gran",
+    "coconut toilet monkey tenant tray arctic resemble blast law stick twenty black",
+    "0xc11896d44c85fe322321706c80e7307b6d758efd7550ca4112a022756024402e"
+  ]
+}

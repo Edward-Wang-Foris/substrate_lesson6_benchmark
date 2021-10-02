@@ -1,0 +1,10 @@
+{
+  "jsonrpc":"2.0",
+  "id":1,
+  "method":"author_insertKey",
+  "params": [
+    "aura",
+    "neck quit crowd mountain finish order hidden theory disease face theory nose",
+    "0x802358af7fed8c8353b3310c074be4dd5f3f432b16343ed6be3f77e7d4d28a3c"
+  ]
+}

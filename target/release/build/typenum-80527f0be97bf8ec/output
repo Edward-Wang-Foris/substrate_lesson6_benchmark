@@ -1,0 +1,2 @@
+cargo:rustc-env=TYPENUM_BUILD_CONSTS=/Users/edward.wangcrypto.com/study/substrate_lesson_homework_template/node-template-benchmark/target/release/build/typenum-80527f0be97bf8ec/out/consts.rs
+cargo:rustc-env=TYPENUM_BUILD_OP=/Users/edward.wangcrypto.com/study/substrate_lesson_homework_template/node-template-benchmark/target/release/build/typenum-80527f0be97bf8ec/out/op.rs
